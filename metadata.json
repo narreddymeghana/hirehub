@@ -1,0 +1,5 @@
+{
+  "name": "HireHub",
+  "description": "A modern job portal application where recruiters can post and manage job listings, and job seekers can search, filter, and apply for jobs. It features AI-powered job description generation using the Gemini API.",
+  "requestFramePermissions": []
+}
